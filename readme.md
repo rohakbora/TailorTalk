@@ -53,7 +53,7 @@
    Create a `.env` file in the root directory:
    ```env
    # OpenRouter API Keys (comma-separated for load balancing)
-   OPENROUTER_API_KEY=your_key_1,your_key_2,your_key_3
+   OPENROUTER_API_KEY=your_key
    
    # Google Calendar API Credentials
    GOOGLE_CLIENT_ID=your_google_client_id

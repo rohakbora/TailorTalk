@@ -1,0 +1,7 @@
+agent/__pycache__
+app/__pycache__
+venv
+code.py
+credentials.json
+test.py
+.env

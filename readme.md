@@ -40,7 +40,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rohakbora/TailorTalk)
    cd tailortalk
    ```
 
@@ -64,7 +64,7 @@
 
 4. **Start the backend server**
    ```bash
-   python main.py
+   uvicorn app.main:app
    ```
    Server will start on `http://localhost:8000`
 
